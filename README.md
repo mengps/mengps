@@ -20,6 +20,6 @@
 
 `🌱` I’m currently learning: `Web`
 
-`📫` How to reach me: `WX: MenPenS612` / `QQ: 843261040`
+`📫` How to reach me: `WX: MenPenS612` `QQ: 843261040`
 
 `📮` Email: `843261040@qq.com`
