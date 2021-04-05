@@ -22,15 +22,13 @@
 `📮` Email: `843261040@qq.com`
 
 <!-- Total -->
-<a href="https://exp-blog.com" target="_blank">
-  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengps&hide=HTML,CSS,TSQL&theme=great-gatsby" alt="EXP's Top Langs" />
-</a>
-<a href="https://exp-blog.com" target="_blank">
-  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=mengps&count_private=true&show_icons=true&theme=nightowl" alt="EXP's github stats" />
-</a>
-<a href="https://exp-blog.com" target="_blank">
-  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengps&layout=compact&theme=nightowl" alt="EXP's github stats" />
-</a>
+<span>
+   <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengps&layout=compact&theme=nightowl" />
+</span>
+<span>
+  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=mengps&count_private=true&show_icons=true&theme=nightowl" />
+</span>
+
 <p align="center" style="font-weight: bold;"> 
   Github 访问次数统计<br>
   <img src="https://profile-counter.glitch.me/mengps/count.svg" /
