@@ -1,8 +1,3 @@
-### Hi there is mengps. 👋
-
-<!-- Total -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mengps&show_icons=true&icon_color=CE1D2D&text_color=58667a&bg_color=effffd&hide_title=true" />
-
 <!--
 **mengps/mengps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +11,8 @@
 - ⚡ Fun fact: `no monney`
 -->
 
+### Hi there is mengps. 👋
+
 `🔭` I’m currently working on: `Squat at home`
 
 `🌱` I’m currently learning: `Web`
@@ -24,9 +21,12 @@
 
 `📮` Email: `843261040@qq.com`
 
+<!-- Total -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mengps&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengps&layout=compact)](https://github.com/bitcookies)
 
-<p align="center"> 
+<p align="center" style="color: red;"> 
   Github 访问次数统计<br>
   <img src="https://profile-counter.glitch.me/mengps/count.svg" /
 </p>
