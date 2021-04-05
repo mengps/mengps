@@ -24,7 +24,7 @@
 <!-- Total -->
 <span style="float: left;">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengps&layout=compact&theme=nightowl" />
-   <img src="https://github-readme-stats.vercel.app/api?username=mengps&count_private=true&show_icons=true&theme=nightowl" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengps&layout=compact&theme=nightowl" />
 </span>
 
 <p align="center"> 
