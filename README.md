@@ -26,4 +26,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredtao&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-![Visitor Count](https://profile-counter.glitch.me/jaredtao/count.svg)
+<p align="center"> 
+  Github 访问次数统计<br>
+  <img src="https://profile-counter.glitch.me/windmill0503/count.svg" /> /*只需将二级目录替换为自己的 Github 名称即可*/
+</p>
