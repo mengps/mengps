@@ -23,8 +23,8 @@
 
 <!-- Total -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mengps&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengps&layout=compact)](https://github.com/bitcookies)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengps&layout=compact)](https://github.com/bitcookies)
 <p align="center" style="color: red;"> 
   Github 访问次数统计<br>
   <img src="https://profile-counter.glitch.me/mengps/count.svg" /
