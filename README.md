@@ -28,7 +28,7 @@
 <a href="https://exp-blog.com" target="_blank">
   <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=mengps&count_private=true&show_icons=true&theme=nightowl" alt="EXP's github stats" />
 </a>
-<p align="center" style="color: red;"> 
+<p align="center" style="font-weight: bold;"> 
   Github 访问次数统计<br>
   <img src="https://profile-counter.glitch.me/mengps/count.svg" /
 </p>
