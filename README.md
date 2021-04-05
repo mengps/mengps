@@ -16,6 +16,8 @@
 
 ### Hi there is mengps. 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengps&layout=compact)](https://github.com/bitcookies)
+
 `🔭` I’m currently working on: `Squat at home`
 
 `🌱` I’m currently learning: `Web`
@@ -23,8 +25,6 @@
 `📫` How to reach me: `Wx: MenPenS612`
 
 `📮` Email: `843261040@qq.com`
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengps&layout=compact)](https://github.com/bitcookies)
 
 <p align="center" style="color: red;"> 
   Github 访问次数统计<br>
