@@ -24,9 +24,9 @@
 
 `📮` Email: `843261040@qq.com`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredtao&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengps&layout=compact)](https://github.com/bitcookies)
 
 <p align="center"> 
   Github 访问次数统计<br>
-  <img src="https://profile-counter.glitch.me/windmill0503/count.svg" /> /*只需将二级目录替换为自己的 Github 名称即可*/
+  <img src="https://profile-counter.glitch.me/mengps/count.svg" /
 </p>
