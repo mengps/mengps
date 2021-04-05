@@ -23,3 +23,7 @@
 `📫` How to reach me: `Wx: MenPenS612`
 
 `📮` Email: `843261040@qq.com`
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredtao&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+![Visitor Count](https://profile-counter.glitch.me/jaredtao/count.svg)
