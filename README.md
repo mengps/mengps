@@ -17,7 +17,6 @@
 ### Hi there is mengps. 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengps&layout=compact)](https://github.com/bitcookies)
-
 `🔭` I’m currently working on: `Squat at home`
 
 `🌱` I’m currently learning: `Web`
