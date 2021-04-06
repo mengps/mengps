@@ -22,12 +22,12 @@
 `📮` Email: `843261040@qq.com`
 
 <!-- Total -->
-<span style="float: left;">
+<div>
    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mengps&show_icons=true&theme=nightowl" />
    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengps&layout=compact&theme=nightowl" />
-</span>
+</div>
 
 <p align="center"> 
   Github 访问次数统计<br>
-  <img src="https://profile-counter.glitch.me/mengps/count.svg" /
+  <img src="https://profile-counter.glitch.me/mengps/count.svg" />
 </p>
