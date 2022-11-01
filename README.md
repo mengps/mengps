@@ -15,9 +15,9 @@
 
 `🔭` I’m currently working on: `Squat at home`
 
-`🌱` I’m currently learning: `Web`
+`🌱` I’m currently learning: `Any`
 
-`📫` How to reach me: `Wx: MenPenS612`
+`📫` How to reach me: `Wx: MenPenS612 QQ: 843261040`
 
 `📮` Email: `843261040@qq.com`
 
