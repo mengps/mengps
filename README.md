@@ -23,7 +23,7 @@
 
 `🌱` I’m currently learning: `Any`
 
-`📫` How to reach me: `Wx: MenPenS612 QQ: 843261040`
+`📫` How to reach me: `Wx: MenPenS0612 QQ: 843261040`
 
 `📮` Email: `843261040@qq.com`
 
